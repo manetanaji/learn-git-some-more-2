@@ -1,3 +1,6 @@
 this is second file commit
 
 now i do the next commit i.e. 2
+
+now i am doing commit on feature-1 branch 
+
